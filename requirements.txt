@@ -1,0 +1,8 @@
+pyautogui
+keyboard
+mss
+opencv-python
+numpy
+openai-whisper
+sounddevice
+scipy
